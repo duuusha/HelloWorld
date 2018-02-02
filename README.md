@@ -1,6 +1,6 @@
 # Working with Embedded Terminal
 
-Intellij IDEA provides an embedded terminal that allows you to work with command line tools available in your operation system. By default, this can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use Git Bash on the command line.
+Intellij IDEA provides an embedded terminal that allows you to work with command line tools available in your operation system. By default, this can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also run Git Bash in the terminal.
 
 ![111](https://user-images.githubusercontent.com/35970470/35732900-52fca588-082c-11e8-965d-48b4369c0486.png)
 
