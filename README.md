@@ -10,6 +10,17 @@ Do one of the following to run the terminal:
 
 
 ## Configure Terminal Type
+To use the specific terminal type, go to [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) and provide a path to the required shell executable in the **Shell path** field. Click the ellipsis button next to **Shell path** and locate the corresponding file in the invoked dialog:
+
+![shell-execulable-path](https://user-images.githubusercontent.com/35970470/35766911-0aaec43e-08f2-11e8-87ca-39db9ca44ea3.png)
+
+The table below lists common shell executables and their locations (Windows):
+
+Shell Type | Default Location
+------------ | -------------
+Command Prompt | C:\Windows\System32\cmd.exe
+PowerShell | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Git Bash | C:\Program Files\Git\bin\bash.exe
 
 ## Terminal Display Settings
 
