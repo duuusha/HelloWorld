@@ -24,13 +24,6 @@ Git Bash | C:\Program Files\Git\bin\bash.exe
 
 > You can also use the [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) page to access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 
-## Configure Terminal Settings
-
-You can configure various terminal settings using the following pages:
-* [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) provides access to terminal-specific settings and allows you to specify the default working directory, terminal type, etc.
-*
-
-See also: [Working with Tool Windows](https://www.jetbrains.com/help/idea/working-with-tool-windows.html)
 
 ## Manage Multiple Sessions
 The embedded terminal allows you to open different sessions and navigate between them.
