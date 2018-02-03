@@ -24,7 +24,8 @@ Git Bash | C:\Program Files\Git\bin\bash.exe
 
 > You can also use the [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) page to access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 
-## Terminal Key Shortcuts
+
+## W
 
 
 
@@ -38,19 +39,10 @@ A new session opens in a separate tab:
 
 ![terminal-tabs](https://user-images.githubusercontent.com/35970470/35767570-959bf32a-08ff-11e8-998a-8026f92b2b2e.png)
 
-To close an active session, do one of the following:
-* Click the ![cross-button](https://user-images.githubusercontent.com/35970470/35767540-e515b752-08fe-11e8-9347-8ced8e78e229.png) button on the terminal's toolbar.
-* Right-click a current session window (or a session tab) and choose **Close Session** (```Ctrl+Shift-W```).
-
-You can also navigate between sessions in one of the following ways:
-* Click the required session's tab.
-* Right-click a current session window/tab and select **Next Tab** to move to the next session (```Alt-Right```). To return to the previous session, select **Previous Tab** (```Alt-Left```).
-
-To rename a tab for a current session, right-click the session's tab, select **Rename Tab**, specify a new name and press ```Enter```.
-
+To close an active session, use the ![cross-button](https://user-images.githubusercontent.com/35970470/35767540-e515b752-08fe-11e8-9347-8ced8e78e229.png) button on the terminal's toolbar.
 Below are the context menu commands and corresponding shortcuts allowing you to work with sessions:
 
-Context Menu Item | Key | Description
+Context Menu Item | Shortcut | Description
 ------------ | ------------- | -------------
 New Session | ```Ctrl+Shift-T``` | Creates a new session.
 Close Session | ```Ctrl+Shift-W``` | Closes an active session.
