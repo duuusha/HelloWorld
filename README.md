@@ -25,7 +25,19 @@ Git Bash | C:\Program Files\Git\bin\bash.exe
 > You can also use the [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) page to access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 
 
-## W
+## Work within Terminal
+
+You can work with the terminal using a context menu available by right-clicking the terminal's surface. Below are the main commands available through the context menu:
+
+Context Menu Item | Shortcut | Description
+------------ | ------------- | -------------
+Find | ```Ctrl-F``` | Invokes the search panel that allows you to search the specified text.
+Open as URL |  | Opens the selected URL in a default browser.
+Copy | ```Ctrl-C``` | Copies the selected text to a clipboard.
+Paste | ```Ctrl-V``` | Pastes the text from a clipboard.
+Clear Buffer | ```Ctrl-K``` | Clears the terminal.
+Page Up | ```Shift-Page Up``` | Scrolls page up.
+Page Down | ``Shift-Page Down``` | Scrolls page down.
 
 
 
