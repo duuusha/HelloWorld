@@ -1,6 +1,6 @@
 # Working with Embedded Terminal
 
-Intellij IDEA provides an embedded terminal that allows you to work with command line tools available in your operation system. For instance, these can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use the terminal to work with Git command line.
+Intellij IDEA provides an embedded terminal that allows you to work with command line tools available in your operation system. For instance, these can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use the terminal to work with a Git command line.
 
 ![111](https://user-images.githubusercontent.com/35970470/35732900-52fca588-082c-11e8-965d-48b4369c0486.png)
 
@@ -61,3 +61,15 @@ Close Session | ```Ctrl+Shift-W``` | Closes the active session.
 Next Tab | ```Alt-Right``` | Switches to the next session.
 Previous Tab | ```Alt-Left``` | Switches to the previous session.
 Rename Tab |  | Allows you to rename the current session.
+
+
+## Terminal Settings
+* [Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) - provides access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
+* The following global IDE settings are also applied to the terminal:
+    * [Keymap](https://www.jetbrains.com/help/idea/keymap.html) - allows you to configure configure the ```Ctrl+C``` and ```Ctrl+V``` shortcuts.
+    * [Editor | General | Appearance](https://www.jetbrains.com/help/idea/appearance-2.html) - the **Caret blinking** option.
+    > Note that the **Use block caret** option is not in effect for the terminal.
+    * [Appearance and Behavior | Appearance](https://www.jetbrains.com/help/idea/appearance.html) - the **Antialiasing | IDE** option.
+    * [Editor | Color Scheme | Console Font](https://www.jetbrains.com/help/idea/appearance.html)  - provides access to font settings.
+    * [Editor | Color Scheme | Console Colors](https://www.jetbrains.com/help/idea/appearance.html) - allows you to change colors used in the terminal.
+    * [Editor | Color Scheme | Editor](https://www.jetbrains.com/help/idea/appearance.html) - the **Editor | Selection background** and **Selection foreground** options.
