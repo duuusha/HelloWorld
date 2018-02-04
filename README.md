@@ -62,7 +62,7 @@ New Session | ```Ctrl+Shift-T``` | Creates a new session.
 Close Session | ```Ctrl+Shift-W``` | Closes the active session.
 Next Tab | ```Alt-Right``` | Switches to the next session.
 Previous Tab | ```Alt-Left``` | Switches to the previous session.
-Rename Tab |  | Allows you to rename the current session.
+Rename Tab |  | Allows you to rename the session tab.
 
 
 ## Manage Terminal Settings
