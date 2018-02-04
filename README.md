@@ -66,10 +66,10 @@ Rename Tab |  | Allows you to rename the current session.
 ## Terminal Settings
 * [Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) - provides access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 * The following global IDE settings are also applied to the terminal:
-    * [Keymap](https://www.jetbrains.com/help/idea/keymap.html) - allows you to configure configure the ```Ctrl+C``` and ```Ctrl+V``` shortcuts.
+    * [Keymap](https://www.jetbrains.com/help/idea/keymap.html) - the ```Ctrl+C``` and ```Ctrl+V``` shortcuts.
     * [Editor | General | Appearance](https://www.jetbrains.com/help/idea/appearance-2.html) - the **Caret blinking** option.
-    > Note that the **Use block caret** option is not in effect for the terminal.
+    > Note that the **Use block caret** option is not in effect for the terminal because its caret is always block..
     * [Appearance and Behavior | Appearance](https://www.jetbrains.com/help/idea/appearance.html) - the **Antialiasing | IDE** option.
-    * [Editor | Color Scheme | Console Font](https://www.jetbrains.com/help/idea/appearance.html)  - provides access to font settings.
-    * [Editor | Color Scheme | Console Colors](https://www.jetbrains.com/help/idea/appearance.html) - allows you to change colors used in the terminal.
+    * [Editor | Color Scheme | Console Font](https://www.jetbrains.com/help/idea/appearance.html)  - terminal font settings.
+    * [Editor | Color Scheme | Console Colors](https://www.jetbrains.com/help/idea/appearance.html) - terminal colors.
     * [Editor | Color Scheme | Editor](https://www.jetbrains.com/help/idea/appearance.html) - the **Editor | Selection background** and **Selection foreground** options.
