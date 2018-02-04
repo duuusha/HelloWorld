@@ -22,8 +22,6 @@ Command Prompt | C:\Windows\System32\cmd.exe
 PowerShell | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 Git Bash | C:\Program Files\Git\bin\bash.exe
 
-You can also use the [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) page to access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
-
 
 ## Work with Terminal
 
