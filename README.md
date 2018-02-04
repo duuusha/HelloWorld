@@ -10,11 +10,11 @@ Do one of the following to run the terminal:
 
 
 ## Configure Terminal Type
-To use the specific terminal type, go to [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) and provide a path to the required shell executable in the **Shell path** field. Click the ![ellipsis-button](https://user-images.githubusercontent.com/35970470/35767054-6b6532d8-08f5-11e8-97e3-b8e0da50c6a5.png)) button next to **Shell path** and locate the corresponding file in the invoked dialog:
+To use the specific terminal type, go to [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) and provide a path to the required shell executable in the **Shell path** field. Click the ![ellipsis-button](https://user-images.githubusercontent.com/35970470/35767054-6b6532d8-08f5-11e8-97e3-b8e0da50c6a5.png) button next to **Shell path** and locate the corresponding file in the invoked dialog:
 
 ![shell-execulable-path](https://user-images.githubusercontent.com/35970470/35766911-0aaec43e-08f2-11e8-87ca-39db9ca44ea3.png)
 
-The table below lists common shell executables and their locations (Windows):
+The table below lists common shell executables and their default locations for Windows:
 
 Shell Type | Default Location
 ------------ | -------------
@@ -22,22 +22,22 @@ Command Prompt | C:\Windows\System32\cmd.exe
 PowerShell | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 Git Bash | C:\Program Files\Git\bin\bash.exe
 
-> You can also use the [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) page to access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
+You can also use the [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) page to access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 
 
 ## Work within Terminal
 
-You can work with the terminal using a context menu available by right-clicking the terminal's surface. Below are the main commands available through the context menu:
+You can work within terminal using specified shortcuts or a context menu available by right-clicking the terminal's surface. Below are the main commands provided by Intellij IDEA:
 
 Context Menu Item | Shortcut | Description
 ------------ | ------------- | -------------
-Find | ```Ctrl-F``` | Invokes the search panel that allows you to search the specified text.
+Find | ```Ctrl-F``` | Invokes the search panel that allows you to find the specified text.
 Open as URL |  | Opens the selected URL in a default browser.
-Copy | ```Ctrl-C``` | Copies the selected text to a clipboard.
-Paste | ```Ctrl-V``` | Pastes the text from a clipboard.
+Copy | ```Ctrl-C``` | Copies the selected text to the clipboard.
+Paste | ```Ctrl-V``` | Pastes the text from the clipboard.
 Clear Buffer | ```Ctrl-K``` | Clears the terminal.
 Page Up | ```Shift-Page Up``` | Scrolls page up.
-Page Down | ``Shift-Page Down``` | Scrolls page down.
+Page Down | ```Shift-Page Down``` | Scrolls page down.
 
 
 
@@ -57,7 +57,7 @@ Below are the context menu commands and corresponding shortcuts allowing you to 
 Context Menu Item | Shortcut | Description
 ------------ | ------------- | -------------
 New Session | ```Ctrl+Shift-T``` | Creates a new session.
-Close Session | ```Ctrl+Shift-W``` | Closes an active session.
+Close Session | ```Ctrl+Shift-W``` | Closes the active session.
 Next Tab | ```Alt-Right``` | Switches to the next session.
 Previous Tab | ```Alt-Left``` | Switches to the previous session.
-Rename Tab |  | Renames a session.
+Rename Tab |  | Allows you to rename the current session.
