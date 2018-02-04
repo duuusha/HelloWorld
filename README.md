@@ -25,7 +25,9 @@ Git Bash | C:\Program Files\Git\bin\bash.exe
 You can also use the [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) page to access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 
 
-## Work within Terminal
+## Work with Terminal
+
+To run a command in the terminal, press ```Enter```. The ```Up``` and ```Down``` arrow keys allows you to navigate through the history of commands.
 
 You can work within terminal using specified shortcuts or a context menu available by right-clicking the terminal's surface. Below are the main commands provided by Intellij IDEA:
 
