@@ -1,6 +1,6 @@
 # Working with Interactive Consoles
 
-IntelliJ IDEA supports interactive consoles that can be launched in any projects. You can use consoles as temporary files to write and evaluate your code.
+IntelliJ IDEA provides interactive consoles that can be launched in any projects. You can use consoles as temporary files to write and evaluate your code. Of course, [basic code completion](https://www.jetbrains.com/help/idea/run-tool-window.html) is supported.
 
 ![groovy-console](https://user-images.githubusercontent.com/35970470/35776468-33927ec4-09ae-11e8-8437-ae65d16d3511.png)
 
