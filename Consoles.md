@@ -30,8 +30,8 @@ To run a console, invoke the **Tools** menu and select the required console type
 
 IntelliJ IDEA enables you to specify custom color and font settings for various console types. To do this, open the **File | Settings** dialog and use the pages below:
 
-* Editor | Color Scheme | Console Font - console font settings.
-* Editor | Color Scheme | Console Colors - console colors.
+* **Editor | Color Scheme | Console Font** - console font settings.
+* **Editor | Color Scheme | Console Colors** - console colors.
 
 The image below shows the **Console Colors** page for **User input**:
 

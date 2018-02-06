@@ -70,8 +70,8 @@ Rename Tab |  | Allows you to rename the session tab.
     * [Editor | General | Appearance](https://www.jetbrains.com/help/idea/appearance-2.html) - the **Caret blinking** option.
       > Note that the **Use block caret** option is not in effect for the terminal because its caret is always block..
     * [Appearance and Behavior | Appearance](https://www.jetbrains.com/help/idea/appearance.html) - the **Antialiasing | IDE** option.
-    * Editor | Color Scheme | Console Font] - terminal font settings.
-    * Editor | Color Scheme | Console Colors - terminal colors.
+    * **Editor | Color Scheme | Console Font** - terminal font settings.
+    * **Editor | Color Scheme | Console Colors** - terminal colors.
     * [Editor | Color Scheme | General](https://www.jetbrains.com/help/idea/appearance.html) - the **Editor | Selection background** and **Selection foreground** options.
 
     > Note that applying new settings related to the terminal color and font settings may require restarting IDE.
