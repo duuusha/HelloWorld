@@ -74,4 +74,4 @@ Rename Tab |  | Allows you to rename the session tab.
     * **Editor | Color Scheme | Console Colors** - terminal colors.
     * **Editor | Color Scheme | General** - the **Editor | Selection background** and **Selection foreground** options.
 
-    > Note that applying new settings related to the terminal color and font settings may require restarting IDE.
+      > Note that applying new settings related to the terminal color and font settings may require restarting IDE.
