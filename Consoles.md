@@ -44,7 +44,7 @@ IntelliJ IDEA creates project files using encoding settings specified in the [Fi
 If necessary, IntelliJ IDEA can process the console output using custom encoding settings. Perform the following steps to process UTF-8 encoded text (Windows and Linux):
 * Click **Help | Edit Custom VM Options ...**
 * (Optional) In the invoked dialog, click **Yes** to create a file containing custom JVM options.
-* Add the following line to the end of the file:
+* Add the following line to the end of the file and save it:
 
   ```-Dconsole.encoding=UTF-8```
 > See [Configuring JVM options](https://www.jetbrains.com/help/idea/tuning-intellij-idea.html) to learn more about configuring custom JVM options.
