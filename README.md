@@ -72,6 +72,6 @@ Rename Tab |  | Allows you to rename the session tab.
     * [Appearance and Behavior | Appearance](https://www.jetbrains.com/help/idea/appearance.html) - the **Antialiasing | IDE** option.
     * **Editor | Color Scheme | Console Font** - terminal font settings.
     * **Editor | Color Scheme | Console Colors** - terminal colors.
-    * [Editor | Color Scheme | General](https://www.jetbrains.com/help/idea/appearance.html) - the **Editor | Selection background** and **Selection foreground** options.
+    * **Editor | Color Scheme | General** - the **Editor | Selection background** and **Selection foreground** options.
 
     > Note that applying new settings related to the terminal color and font settings may require restarting IDE.
