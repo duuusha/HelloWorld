@@ -22,6 +22,13 @@ Command Prompt | C:\Windows\System32\cmd.exe
 PowerShell | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 Git Bash | C:\Program Files\Git\bin\bash.exe
 
+Fox Linux:
+
+Shell Type | Default Path
+------------ | -------------
+Bash | /bin/bash
+Shell | /bin/sh
+
 
 ## Work with Terminal
 
