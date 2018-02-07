@@ -76,7 +76,7 @@ Rename Tab |  | Allows you to rename the session tab.
     * [Keymap](https://www.jetbrains.com/help/idea/keymap.html) - the ```Ctrl+C``` and ```Ctrl+V``` shortcuts.
     * [Editor | General | Appearance](https://www.jetbrains.com/help/idea/appearance-2.html) - the **Caret blinking** option.
       > Note that the **Use block caret** option is not in effect for the terminal because it always has a block caret.
-    * [Appearance and Behavior | Appearance](https://www.jetbrains.com/help/idea/appearance.html) - the **Antialiasing | IDE** option.
+    * [Appearance and Behavior | Appearance](https://www.jetbrains.com/help/idea/appearance.html) - the **Antialiasing** option for IDE.
     * **Editor | Color Scheme | Console Font** - terminal font settings.
     * **Editor | Color Scheme | Console Colors** - terminal colors.
     * **Editor | Color Scheme | General** - the **Editor | Selection background** and **Selection foreground** options.
