@@ -1,8 +1,8 @@
 # Working with the Embedded Terminal
 
-Intellij IDEA provides an embedded terminal that allows you to work with command line tools available in your operation system. For instance, these can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use the terminal to work with a Git command line.
+IntelliJ IDEA provides an embedded terminal that allows you to work with command line tools available in your operating system. For instance, these can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use the terminal to work with a Git command line.
 
-![111](https://user-images.githubusercontent.com/35970470/35732900-52fca588-082c-11e8-965d-48b4369c0486.png)
+![terminal-example](https://user-images.githubusercontent.com/35970470/35732900-52fca588-082c-11e8-965d-48b4369c0486.png)
 
 Do one of the following to run the terminal:
 * Press ```Alt+F12```.
@@ -12,11 +12,11 @@ Do one of the following to run the terminal:
 ## Configure Terminal Type
 To use the specific terminal type, go to [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) and provide a path to the required shell executable in the **Shell path** field. Click the ![ellipsis-button](https://user-images.githubusercontent.com/35970470/35767054-6b6532d8-08f5-11e8-97e3-b8e0da50c6a5.png) button next to **Shell path** and locate the corresponding file in the invoked dialog:
 
-![shell-execulable-path](https://user-images.githubusercontent.com/35970470/35766911-0aaec43e-08f2-11e8-87ca-39db9ca44ea3.png)
+![shell-executable-path](https://user-images.githubusercontent.com/35970470/35766911-0aaec43e-08f2-11e8-87ca-39db9ca44ea3.png)
 
 The table below lists common shell executables and their default locations for Windows:
 
-Shell Type | Default Location
+Shell Type | Default Shell Path
 ------------ | -------------
 Command Prompt | C:\Windows\System32\cmd.exe
 PowerShell | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
@@ -24,7 +24,7 @@ Git Bash | C:\Program Files\Git\bin\bash.exe
 
 Fox Linux:
 
-Shell Type | Default Path
+Shell Type | Default Shell Path
 ------------ | -------------
 Bash | /bin/bash
 Shell | /bin/sh
@@ -34,7 +34,7 @@ Shell | /bin/sh
 
 To run a command in the terminal, press ```Enter```. The ```Up``` and ```Down``` arrow keys allows you to navigate through the history of commands.
 
-You can work within terminal using specified shortcuts or a context menu available by right-clicking the terminal's surface. Below are the main commands provided by Intellij IDEA:
+You can work within terminal using specified shortcuts or a context menu available by right-clicking the terminal's surface. Below are the main commands provided by IntelliJ IDEA:
 
 Context Menu Item | Shortcut | Description
 ------------ | ------------- | -------------
