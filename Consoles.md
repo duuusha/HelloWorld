@@ -46,7 +46,7 @@ The image below shows the **Console Colors** page for **User input**:
 IntelliJ IDEA creates project files using encoding settings specified in the [File Encodings](https://www.jetbrains.com/help/idea/file-encodings.html) of the **Settings** dialog. Output in consoles also uses these encoding settings.
 If necessary, IntelliJ IDEA can process the console output using custom encoding settings. Perform the following steps to process UTF-8 encoded text properly (Windows and Linux):
 * Invoke the **Help** menu and select **Edit Custom VM Options...**
-* (Optional) In the invoked dialog, click **Yes** to create a file containing custom JVM options.
+* Click **Yes** to create a file containing custom JVM options (if this file not yet created).
 * Add the following line to the end of the file and save it:
 
   ```-Dconsole.encoding=UTF-8```
