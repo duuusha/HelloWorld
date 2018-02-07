@@ -10,7 +10,7 @@ Do one of the following to run the terminal:
 
 
 ## Configure Terminal Type
-To use the specific terminal type, go to [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) and provide a path to the required shell executable in the **Shell path** field. Click the ![ellipsis-button](https://user-images.githubusercontent.com/35970470/35767054-6b6532d8-08f5-11e8-97e3-b8e0da50c6a5.png) button next to **Shell path** and locate the corresponding file in the invoked dialog:
+To change the default terminal type, go to [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) and provide a path to the required shell executable in the **Shell path** field. Click the ![ellipsis-button](https://user-images.githubusercontent.com/35970470/35767054-6b6532d8-08f5-11e8-97e3-b8e0da50c6a5.png) button next to **Shell path** and locate the corresponding file in the invoked dialog:
 
 ![shell-executable-path](https://user-images.githubusercontent.com/35970470/35766911-0aaec43e-08f2-11e8-87ca-39db9ca44ea3.png)
 
