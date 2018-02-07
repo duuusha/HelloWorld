@@ -8,7 +8,7 @@ IntelliJ IDEA includes an interactive JShell console that can be used as a tempo
 
 This document describes how to launch the JShell console and use it to run a sample code snippet.
 
-1. Select **Tools | Groovy Console** on the main menu.
+1. Select **Tools | JShell Console...** on the main menu.
 
 1. If your project consists of several modules, choose the module to use the classpath of:
 
