@@ -24,7 +24,7 @@ This document describes how to launch the JShell console and use it to run a sam
 
    Note that code completion and error highlighting is available.
 
-1. Click ![playbutton](https://user-images.githubusercontent.com/35970470/35906125-7cfa8130-0bfa-11e8-9ef4-7b88cc6eabb5.png) to execute the entered code:
+1. Click ![play-button](https://user-images.githubusercontent.com/35970470/35906125-7cfa8130-0bfa-11e8-9ef4-7b88cc6eabb5.png) to execute the entered code:
 
     ![jshell_result](https://user-images.githubusercontent.com/35970470/35905994-111245e8-0bfa-11e8-9129-073576747b96.png)
 

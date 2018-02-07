@@ -1,4 +1,4 @@
-# Working with the Embedded Terminal
+# Working with Embedded Terminal
 
 IntelliJ IDEA provides an embedded terminal that allows you to work with command line tools available in your operating system. For instance, these can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use the terminal to work with a Git command line.
 
