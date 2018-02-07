@@ -1,6 +1,7 @@
 # Working with Interactive Consoles
 
-IntelliJ IDEA provides interactive consoles that allow you write and evaluate your code.
+IntelliJ IDEA provides interactive consoles that allow you write and evaluate your code. For instance, this can be Java or Groovy code snippets.
+
 Interactive consoles support the following features:
 * [basic code completion](https://www.jetbrains.com/help/idea/auto-completing-code.html);
 * syntax check and error highlighting;
