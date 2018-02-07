@@ -23,7 +23,7 @@ To run a console, invoke the **Tools** menu and select the required console type
 
 * [JShell Console...](https://github.com/duuusha/HelloWorld/blob/master/JShellConsole.md)<br/>
   Launches the interactive console that allows you to run Java code snippets.
-  > Note that the JShell Console requires JDK 9. See [Working with SDKs](https://www.jetbrains.com/help/idea/working-with-sdks.html) to learn how to define the project's SDK version.
+  > Note that the JShell Console requires JDK 9. See [Working with SDKs](https://www.jetbrains.com/help/idea/working-with-sdks.html) to learn how to define the project's SDK module.
 
 * [Groovy Console...](https://www.jetbrains.com/help/idea/launching-groovy-interactive-console.html)<br/>
   Launches the interactive Groovy console.

@@ -4,7 +4,7 @@ IntelliJ IDEA includes an interactive JShell console that can be used as a tempo
 
 ![jshell_result](https://user-images.githubusercontent.com/35970470/35905994-111245e8-0bfa-11e8-9129-073576747b96.png)
 
-> Note that the JShell Console requires JDK 9. See [Working with SDKs](https://www.jetbrains.com/help/idea/working-with-sdks.html) to learn how to define the project's SDK version.
+> Note that the JShell Console requires JDK 9. See [Working with SDKs](https://www.jetbrains.com/help/idea/working-with-sdks.html) to learn how to define the project's SDK module.
 
 This document describes how to launch the JShell console and use it to run a sample code snippet.
 
