@@ -18,7 +18,7 @@ To run a console, invoke the **Tools** menu and select the required console type
 * **IDE Scripting Console**<br/>
   Launches the interactive scripting console.
 
-* **JShell Console...**<br/>
+* [JShell Console...](https://github.com/duuusha/HelloWorld/blob/master/JShellConsole.md)<br/>
   Launches the interactive console that allows you to run Java code snippets.
   > Note that the JShell Console requires JDK 9.
 

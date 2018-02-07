@@ -3,7 +3,7 @@
 IntelliJ IDEA includes an interactive JShell console that allows you to write and evaluate Java code snippets. This document describes how to launch the JShell console and use it to run a sample code snippet.
 > Note that the JShell Console requires JDK 9.
 
-![jshell](https://user-images.githubusercontent.com/35970470/35904433-23b4ce88-0bf4-11e8-955e-db0c8d61beca.png)
+![jshell_result](https://user-images.githubusercontent.com/35970470/35905994-111245e8-0bfa-11e8-9129-073576747b96.png)
 
 1. Select **Tools | Groovy Console** on the main menu.
 
@@ -18,4 +18,11 @@ IntelliJ IDEA includes an interactive JShell console that allows you to write an
 1. Type a code snippet in the console after the prompt character:
 
     ![jshell_intellisense](https://user-images.githubusercontent.com/35970470/35905625-df170746-0bf8-11e8-926b-816a579e0957.png)
+
    Note that code completion and error highlighting is available.
+
+1. Click ![playbutton](https://user-images.githubusercontent.com/35970470/35906125-7cfa8130-0bfa-11e8-9ef4-7b88cc6eabb5.png) to execute the entered code:
+
+    ![jshell_result](https://user-images.githubusercontent.com/35970470/35905994-111245e8-0bfa-11e8-9129-073576747b96.png)
+
+    Results will be displayed in the [Run Tool Window](https://www.jetbrains.com/help/idea/run-tool-window.html).
