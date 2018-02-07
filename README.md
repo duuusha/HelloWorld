@@ -71,7 +71,7 @@ Rename Tab |  | Allows you to rename the session tab.
 
 
 ## Manage Terminal Settings
-* [Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) - provides access various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
+* [Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) - provides access to various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 * The following global IDE settings are also applied to the terminal:
     * [Keymap](https://www.jetbrains.com/help/idea/keymap.html) - the ```Ctrl+C``` and ```Ctrl+V``` shortcuts.
     * [Editor | General | Appearance](https://www.jetbrains.com/help/idea/appearance-2.html) - the **Caret blinking** option.
