@@ -1,6 +1,7 @@
 # Working with Interactive Consoles
 
-IntelliJ IDEA provides interactive consoles that can be launched in any projects. You can use consoles as temporary files to write and evaluate your code. Interactive consoles support the following features:
+IntelliJ IDEA provides interactive consoles that allow you write and evaluate your code.
+Interactive consoles support the following features:
 * [basic code completion](https://www.jetbrains.com/help/idea/auto-completing-code.html);
 * syntax check and error highlighting;
 * automated insertion of paired brackets, quotes and braces.
