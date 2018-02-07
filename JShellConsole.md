@@ -1,9 +1,12 @@
 # Launching JShell Interactive Console
 
-IntelliJ IDEA includes an interactive JShell console that allows you to write and evaluate Java code snippets. This document describes how to launch the JShell console and use it to run a sample code snippet.
-> Note that the JShell Console requires JDK 9.
+IntelliJ IDEA includes an interactive JShell console that can be used as a temporary file to write and evaluate your code.
 
 ![jshell_result](https://user-images.githubusercontent.com/35970470/35905994-111245e8-0bfa-11e8-9129-073576747b96.png)
+
+> Note that the JShell Console requires JDK 9.
+
+This document describes how to launch the JShell console and use it to run a sample code snippet.
 
 1. Select **Tools | Groovy Console** on the main menu.
 
