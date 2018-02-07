@@ -6,6 +6,7 @@ Interactive consoles support the following features:
 * [basic code completion](https://www.jetbrains.com/help/idea/auto-completing-code.html);
 * syntax check and error highlighting;
 * automated insertion of paired brackets, quotes and braces.
+* loading a source code from the editor into consoles;
 
 The image below demonstrates an interactive Groovy console:
 
