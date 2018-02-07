@@ -32,7 +32,7 @@ Shell | /bin/sh
 
 ## Work with Terminal
 
-To run a command in the terminal, press ```Enter```. The ```Up``` and ```Down``` arrow keys allows you to navigate through the history of commands.
+To run a command in the terminal, press ```Enter```. The ```Up``` and ```Down``` arrow keys allow you to navigate through the history of commands.
 
 You can work within terminal using specified shortcuts or a context menu available by right-clicking the terminal's surface. Below are the main commands provided by IntelliJ IDEA:
 
