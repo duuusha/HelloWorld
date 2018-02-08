@@ -2,6 +2,15 @@
 
 IntelliJ IDEA provides interactive consoles that allow you write and evaluate your code. For instance, this can be Java or Groovy code snippets.
 
+* [Interactive Consoles Overview](#overview)
+* [Run Interactive Console](#run)
+* [Manage Console Display Settings](#display-settings)
+* [Configure Output Encoding](#encoding)
+
+
+## <a name="overview"/>Interactive Consoles Overview
+
+
 The image below demonstrates an interactive Groovy console:
 
 ![groovy-console](https://user-images.githubusercontent.com/35970470/35776468-33927ec4-09ae-11e8-8437-ae65d16d3511.png)
@@ -16,6 +25,7 @@ Interactive consoles include the following features:
 * automated insertion of paired brackets, quotes and braces;
 * loading a source code from the editor into consoles.
 
+## <a name="run"/>Run Interactive Console
 
 To run a console, invoke the **Tools** menu and select the required console type. For instance, you can select one of the following:
 
@@ -30,7 +40,7 @@ To run a console, invoke the **Tools** menu and select the required console type
   Launches the interactive Groovy console.
 
 
-## Manage Console Display Settings
+## <a name="display-settings"/>Manage Console Display Settings
 
 IntelliJ IDEA enables you to specify custom color and font settings for various console types. To do this, open the **File | Settings** dialog and use the pages below:
 
@@ -42,7 +52,7 @@ The image below shows the **Console Colors** page for **User input**:
 ![console-color-settings](https://user-images.githubusercontent.com/35970470/35776706-94602d74-09b2-11e8-850b-7b387e9f4d29.png)
 
 
-## Configure Output Encoding
+## <a name="encoding"/>Configure Output Encoding
 
 IntelliJ IDEA creates project files using encoding settings specified in the [File Encodings](https://www.jetbrains.com/help/idea/file-encodings.html) of the **Settings** dialog. Output in consoles also uses these encoding settings.
 If necessary, IntelliJ IDEA can process the console output using custom encoding settings. Perform the following steps to process UTF-8 encoded text properly (Windows and Linux):
