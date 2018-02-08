@@ -50,6 +50,7 @@ If necessary, IntelliJ IDEA can process the console output using custom encoding
 * Add the following line to the end of the file and save it:
 
   ```-Dconsole.encoding=UTF-8```
+  Then, restart IDE to apply changes.
 > See [Configuring JVM options](https://www.jetbrains.com/help/idea/tuning-intellij-idea.html#configure-jvm-options) to learn how to customize JVM options.
 
 
