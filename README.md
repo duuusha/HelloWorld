@@ -5,6 +5,10 @@ IntelliJ IDEA provides an embedded terminal that allows you to work with command
 ![terminal-example](https://user-images.githubusercontent.com/35970470/35732900-52fca588-082c-11e8-965d-48b4369c0486.png)
 
 * [Run Terminal](#run)
+* [Configure Terminal Type](#terminal-type)
+* [Work with Terminal](#work)
+* [Manage Multiple Sessions](#sessions)
+* [Manage Terminal Settings](#terminal-settings)
 
 
 ## <a name="run"/>Run Terminal
@@ -13,7 +17,7 @@ Do one of the following to run the terminal:
 * Hover the mouse pointer over the ![icon](https://user-images.githubusercontent.com/35970470/35734067-dbfa1f2e-0830-11e8-87bf-f48be1027792.png) button in the IDE's lower left corner and select **Terminal** in the [invoked menu](https://www.jetbrains.com/help/idea/working-with-tool-windows.html#tool_window_quick_access).
 
 
-## Configure Terminal Type
+## <a name="terminal-type"/>Configure Terminal Type
 To change the default terminal type, go to [File | Settings | Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) and provide a path to the required shell executable in the **Shell path** field. Click the ![ellipsis-button](https://user-images.githubusercontent.com/35970470/35767054-6b6532d8-08f5-11e8-97e3-b8e0da50c6a5.png) button next to **Shell path** and locate the corresponding file in the invoked dialog:
 
 ![shell-executable-path](https://user-images.githubusercontent.com/35970470/35766911-0aaec43e-08f2-11e8-87ca-39db9ca44ea3.png)
@@ -34,7 +38,7 @@ Bash | /bin/bash
 Shell | /bin/sh
 
 
-## Work with Terminal
+## <a name="work"/>Work with Terminal
 
 To run a command in the terminal, press ```Enter```. The ```Up``` and ```Down``` arrow keys allow you to navigate through the history of commands.
 
@@ -52,7 +56,7 @@ Page Down | ```Shift-Page Down``` | Scrolls page down.
 
 
 
-## Manage Multiple Sessions
+## <a name="sessions"/>Manage Multiple Sessions
 The embedded terminal allows you to open different sessions and navigate between them.
 
 To create a new session, do one of the following:
@@ -74,7 +78,7 @@ Previous Tab | ```Alt-Left``` | Switches to the previous session.
 Rename Tab |  | Allows you to rename the session tab.
 
 
-## Manage Terminal Settings
+## <a name="terminal-settings"/>Manage Terminal Settings
 * [Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) - provides access to various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
 * The following global IDE settings are also applied to the terminal:
     * [Keymap](https://www.jetbrains.com/help/idea/keymap.html) - the ```Ctrl+C``` and ```Ctrl+V``` shortcuts.
