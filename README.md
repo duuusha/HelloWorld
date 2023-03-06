@@ -1,6 +1,6 @@
 # Working with Embedded Terminal
 
-IntelliJ IDEA provides an embedded terminal that allows you to work with command line tools available in your operating system. For instance, these can be PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use the terminal to work with a Git command line.
+The IntelliJ IDEA provides an embedded terminal that allows you to work with command line tools available in your operating system. For instance, these can be a PowerShell or cmd.exe on Windows, Shell or Bash on Linux. You can also use the terminal to work with a Git command line.
 
 ![terminal-example](https://user-images.githubusercontent.com/35970470/35732900-52fca588-082c-11e8-965d-48b4369c0486.png)
 
@@ -24,19 +24,18 @@ To change the default terminal type, go to [File | Settings | Tools | Terminal](
 
 The table below lists common shell executables and their default locations for Windows:
 
-Shell Type | Default Shell Path
------------- | -------------
-Command Prompt | C:\Windows\System32\cmd.exe
-PowerShell | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
-Git Bash | C:\Program Files\Git\bin\bash.exe
+| Shell Type     | Default Shell Path                                        |
+|----------------|-----------------------------------------------------------|
+| Command Prompt | C:\Windows\System32\cmd.exe                               |
+| PowerShell     | C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe |
+| Git Bash       | C:\Program Files\Git\bin\bash.exe                         |
 
 Common shell paths for Linux:
 
-Shell Type | Default Shell Path
------------- | -------------
-Bash | /bin/bash
-Shell | /bin/sh
-
+| Shell Type | Default Shell Path |
+|------------|--------------------|
+| Bash       | /bin/bash          |
+| Shell      | /bin/sh            |
 
 ## <a name="work"/>Work with Terminal
 
@@ -44,17 +43,15 @@ To run a command in the terminal, press ```Enter```. The ```Up``` and ```Down```
 
 You can work within the terminal using specified shortcuts or a context menu available by right-clicking the terminal's surface. Below are the main commands provided by IntelliJ IDEA:
 
-Context Menu Item | Shortcut | Description
------------- | ------------- | -------------
-Find | ```Ctrl-F``` | Invokes the search panel that allows you to find the specified text.
-Open as URL |  | Opens the selected URL in a default browser.
-Copy | ```Ctrl-C``` | Copies the selected text to the clipboard.
-Paste | ```Ctrl-V``` | Pastes the text from the clipboard.
-Clear Buffer | ```Ctrl-K``` | Clears the terminal.
-Page Up | ```Shift-Page Up``` | Scrolls page up.
-Page Down | ```Shift-Page Down``` | Scrolls page down.
-
-
+| Context Menu Item | Shortcut              | Description                                                          |
+|-------------------|-----------------------|----------------------------------------------------------------------|
+| Find              | ```Ctrl-F```          | Invokes the search panel that allows you to find the specified text. |
+| Open as URL       |                       | Opens the selected URL in a default browser.                         |
+| Copy              | ```Ctrl-C```          | Copies the selected text to the clipboard.                           |
+| Paste             | ```Ctrl-V```          | Pastes the text from the clipboard.                                  |
+| Clear Buffer      | ```Ctrl-K```          | Clears the terminal.                                                 |
+| Page Up           | ```Shift-Page Up```   | Scrolls page up.                                                     |
+| Page Down         | ```Shift-Page Down``` | Scrolls page down.                                                   |
 
 ## <a name="sessions"/>Manage Multiple Sessions
 The embedded terminal allows you to open different sessions and navigate between them.
@@ -69,14 +66,13 @@ A new session opens in a separate tab:
 To close an active session, use the ![cross-button](https://user-images.githubusercontent.com/35970470/35767540-e515b752-08fe-11e8-9347-8ced8e78e229.png) button on the terminal's toolbar.
 Below are the context menu commands and corresponding shortcuts allowing you to work with sessions:
 
-Context Menu Item | Shortcut | Description
------------- | ------------- | -------------
-New Session | ```Ctrl+Shift-T``` | Creates a new session.
-Close Session | ```Ctrl+Shift-W``` | Closes the active session.
-Next Tab | ```Alt-Right``` | Switches to the next session.
-Previous Tab | ```Alt-Left``` | Switches to the previous session.
-Rename Tab |  | Allows you to rename the session tab.
-
+| Context Menu Item | Shortcut           | Description                           |
+|-------------------|--------------------|---------------------------------------|
+| New Session       | ```Ctrl+Shift-T``` | Creates a new session.                |
+| Close Session     | ```Ctrl+Shift-W``` | Closes the active session.            |
+| Next Tab          | ```Alt-Right```    | Switches to the next session.         |
+| Previous Tab      | ```Alt-Left```     | Switches to the previous session.     |
+| Rename Tab        |                    | Allows you to rename the session tab. |
 
 ## <a name="terminal-settings"/>Manage Terminal Settings
 * [Tools | Terminal](https://www.jetbrains.com/help/idea/terminal.html) - provides access to various terminal-specific settings. For instance, you can change the default working directory, the default name of a session tab, etc.
